@@ -63,12 +63,6 @@ Weather-Dashboard/
 
 ---
 
-## 👤 Author
-
-**Mohnish**
-
-Aspiring Data Analyst
-
 Skills:
 - SQL
 - Power BI
